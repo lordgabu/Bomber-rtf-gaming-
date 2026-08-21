@@ -14,8 +14,8 @@ const compression = require('compression'); // 1.6 Compression & Minify
 // ===== CONFIGURATION =====
 // ============================================================
 
-const BOT_TOKEN = "8212356485:AAGeN3peo9uHPG8eCLFRuWjs12hCVC-jNs4";
-const ADMIN_IDS = [6346250222];
+const BOT_TOKEN = "8309836877:AAExGWQIRGC_5P-XzM9mG4fmRVB0-wf7E9I";
+const ADMIN_IDS = [8565990029];
 
 const API_URLS = {
     api1: 'https://api-server-1-bi7w.onrender.com',
